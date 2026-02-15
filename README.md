@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1>Hi, I'm Joel! <br/> <a href="https://www.linkedin.com/in/joel-borges-66604624a">Cybersecurity Professional</a> </h1>
 
-<!--
-**mendes95borges-cyber/mendes95borges-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 CyberSecurity Projects:</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>SQL Injection</b>
+  - [In-band SQL Injection](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Blind SQL Injection](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [WAF(Web Application Firewall) to block SQL injection](https://github.com/joshmadakor1/AD_PS)
+- <b>Phishing</b>
+  - [Malicious Archive](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Malicious URL ](https://github.com/joshmadakor1/DecrypterPOC)
+ 
+- <b>PHP - HTML</b>
+  - [Login page](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  -  [Article site](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+- <b>Python</b>
+
+<h2> Certifications </h2>
+
+- <b>Security+</b>
+- <b>Fortinet Certified Associate - FCA</b>
+- <b>Fortinet Certified Fundamentals - FCA</b>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/joel-borges-66604624a
+
