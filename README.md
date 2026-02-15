@@ -4,7 +4,7 @@
 
 
 - <b>SQL Injection</b>
-  - [In-band SQL Injection](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [In-band SQL Injection](https://github.com/mendes95borges-cyber/In-Band-SQL/blob/main/README.md)
   - [Blind SQL Injection](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [WAF(Web Application Firewall) to block SQL injection](https://github.com/joshmadakor1/AD_PS)
 - <b>Phishing</b>
