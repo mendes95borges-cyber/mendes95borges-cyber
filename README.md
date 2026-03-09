@@ -4,18 +4,8 @@
 
 
 - <b>SQL Injection</b>
-  - [In-band SQL Injection](https://github.com/mendes95borges-cyber/In-Band-SQL/blob/main/README.md)
-  - [Blind SQL Injection](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [WAF(Web Application Firewall) to block SQL injection](https://github.com/joshmadakor1/AD_PS)
-- <b>Phishing</b>
-  - [Malicious Archive](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Malicious URL ](https://github.com/joshmadakor1/DecrypterPOC)
+  - [ SQL Injection](https://github.com/mendes95borges-cyber/In-Band-SQL/blob/main/README.md)
  
-- <b>PHP - HTML</b>
-  - [Login page](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  -  [Article site](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-- <b>Python</b>
 
 <h2> Certifications </h2>
 
