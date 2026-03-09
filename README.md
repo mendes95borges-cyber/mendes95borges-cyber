@@ -2,8 +2,6 @@
 
 <h3>👨‍💻 CyberSecurity Projects:</h3>
 
-
-- <b>SQL Injection</b>
   - [ SQL Injection](https://github.com/mendes95borges-cyber/In-Band-SQL/blob/main/README.md)
  
 ---
